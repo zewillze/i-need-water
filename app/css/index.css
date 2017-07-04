@@ -1,0 +1,25 @@
+html,
+body {
+	background: #0C7CA2,
+	height: 725px;
+    overflow: hidden;
+    width: 368px;
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+}
+
+.cheer-button {
+    background-color: #0C7CA2;
+    border-radius: 100%;
+    cursor: pointer;
+    /*display: inline-block;*/
+    height: 100px;
+    /*margin-top: 0px;*/
+    margin: 0 auto;
+    /*position: relative;*/
+    width: 100px;
+    /*box-shadow: 0 4px 0 #044D7F;*/
+    color: white;
+    -webkit-app-region: no-drag;
+}
+ 
